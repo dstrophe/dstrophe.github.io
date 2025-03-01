@@ -1,2 +1,2 @@
-#EXTINF:-1,art_aflam_1
-rtmp://162.212.176.107:1935/art_aflam_1?v=a2V5bGl2ZTgzLTQ1LTEwMy0yODIw.MTUtMDEtMjUtMDAtNDUtMTc=/globaltv-art_aflam_1.stream
+#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-name="Abu Dhabi Aloula" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="",Abu Dhabi Aloula
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
